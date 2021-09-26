@@ -1,0 +1,10 @@
+.team-container{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.person-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}

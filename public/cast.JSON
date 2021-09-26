@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Rahul Dholakia",
+        "image": "https://raees-movies-casting-crew.netlify.app/Rahul%20Dholakia.png",
+        "occupation": "Director",
+        "age": 58,
+        "years_Active": "2003 - Present",
+        "born": "Mumbai",
+        "salary": 20000
+    },
+    {
+        "name": "K. U. Mohanan",
+        "image": "https://raees-movies-casting-crew.netlify.app/K.%20U.%20Mohanan.png",
+        "occupation": "Cinematographer",
+        "age": 60,
+        "years_Active": "1990 - Present",
+        "born": "Kerala",
+        "salary": 18000
+    },
+    {
+        "name": "Ritesh Sidhwani",
+        "image": "https://raees-movies-casting-crew.netlify.app/Ritesh%20Sidhwani.png",
+        "occupation": "Film producer",
+        "age": 48,
+        "years_Active": "2001 - Present",
+        "born": "Mumbai",
+        "salary": 220000
+    },
+    {
+        "name": "Gauri Khan",
+        "image": "https://raees-movies-casting-crew.netlify.app/Gauri%20Khan.png",
+        "occupation": "Film producer",
+        "age": 50,
+        "years_Active": "1992 - Present",
+        "born": "New Delhi",
+        "salary": 250000
+    },
+    {
+        "name": "Shah Rukh Khan",
+        "image": "https://raees-movies-casting-crew.netlify.app/srk.png",
+        "occupation": "Actor",
+        "age": 55,
+        "years_Active": "1988 - Present",
+        "born": "New Delhi",
+        "salary": 500000
+    },
+    {
+        "name": "Mahira Khan",
+        "image": "https://raees-movies-casting-crew.netlify.app/Mahira%20Khan.png",
+        "occupation": "Actress",
+        "age": 36,
+        "years_Active": "2006 - Present",
+        "born": "Karachi",
+        "salary": 100000
+    },
+    {
+        "name": "Nawazuddin Siddiqui",
+        "image": "https://raees-movies-casting-crew.netlify.app/Nawazuddin%20Siddiqui.png",
+        "occupation": "Actor",
+        "age": 47,
+        "years_Active": "1999 - Present",
+        "born": "Uttar Pradesh",
+        "salary": 155000
+    },
+    {
+        "name": "Sheeba Chaddha",
+        "image": "https://raees-movies-casting-crew.netlify.app/Sheeba%20Chaddha.png",
+        "occupation": "Actress",
+        "age": 49,
+        "years_Active": "1998 - Present",
+        "born": "Uttar Pradesh",
+        "salary": 125000
+    },
+    {
+        "name": "Mohammed Zeeshan Ayyub",
+        "image": "https://raees-movies-casting-crew.netlify.app/Mohammed%20Zeeshan%20Ayyub.png",
+        "occupation": "Actor",
+        "age": 37,
+        "years_Active": "2011 - Present",
+        "born": "New Delhi",
+        "salary": 80000
+    },
+    {
+        "name": "Atul Kulkarni",
+        "image": "https://raees-movies-casting-crew.netlify.app/Atul%20Kulkarni.png",
+        "occupation": "Actor",
+        "age": 58,
+        "years_Active": "1989 - Present",
+        "born": "Karnataka",
+        "salary": 20000
+    },
+    {
+        "name": "Jaideep Ahlawat",
+        "image": "https://raees-movies-casting-crew.netlify.app/Jaideep%20Ahlawat.png",
+        "occupation": "Actor",
+        "age": 41,
+        "years_Active": "2008 - Present",
+        "born": "Haryana",
+        "salary": 20000
+    },
+    {
+        "name": "Narendra Jha",
+        "image": "https://raees-movies-casting-crew.netlify.app/Narendra%20Jha.png",
+        "occupation": "Actor",
+        "age": 54,
+        "years_Active": "1992 -present",
+        "born": "Bihar",
+        "salary": 20000
+    }
+]
