@@ -17,7 +17,6 @@ const Production = (props) => {
             <h4>Listed Crew Member:</h4>
             <div className='listed-member'>
                 {
-                    // listedMember.map(member => <p className='fw-bold' key={member.name}> <img src={member.image} alt="" />{member.name}</p>)
                     listedMember.map(member => <SelectedMember key={member.name} member={member}></SelectedMember>)
                 }
             </div>

@@ -4,14 +4,17 @@ import Production from '../Production/Production';
 import "./Team.css"
 
 const Team = () => {
+    // using state 
     const [persons, setPersons] = useState([]);
     const [castingCrew, setCastingCrew] = useState([]);
+    //fetching data to show in ui
+
     useEffect(() => {
         fetch("./cast.JSON")
             .then(res => res.json())
             .then(data => setPersons(data))
     }, [])
-
+    //handke button dynamically
     const handleAddTOCast = person => {
         const addedCastingCrew = [...castingCrew];
         if (!addedCastingCrew.includes(person)) {
